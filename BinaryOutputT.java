@@ -1,4 +1,5 @@
 //BinaryOutputT.java
+//Programmer: Cole Rodenberg
 
 import java.util.Scanner;
 public class BinaryOutputT
